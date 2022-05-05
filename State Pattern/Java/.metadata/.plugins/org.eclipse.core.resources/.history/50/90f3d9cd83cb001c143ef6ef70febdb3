@@ -1,0 +1,6 @@
+enum DocumentState {
+    NEW, SUBMITTED, APPROVED, REJECTED
+}
+public class DocumentApp {
+
+}
