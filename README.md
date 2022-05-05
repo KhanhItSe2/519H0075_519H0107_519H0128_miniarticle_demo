@@ -11,3 +11,4 @@ State Pattern:
   - C#: folder chứa program mô phỏng máy ATM khi chưa có thẻ và đã có thẻ.Test: C#->ATM Machine->StatePattern->bin->Debug->StatePattern.exe
 
 Visitor Pattern:
+  - thư mục "nonpv", file "NomalApplication" là không sử dụng pattern thư mục pv, file "PatternApplication" là sử dụng pattern 
