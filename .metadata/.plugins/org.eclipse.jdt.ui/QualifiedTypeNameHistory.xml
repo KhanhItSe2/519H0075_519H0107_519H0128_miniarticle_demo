@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="mdp.nonvp.shape.Dot"/>
+    <fullyQualifiedTypeName name="mdp.nonvp.shape.FileExport"/>
+    <fullyQualifiedTypeName name="mdp.nonvp.shape.Shape"/>
+</qualifiedTypeNameHistroy>

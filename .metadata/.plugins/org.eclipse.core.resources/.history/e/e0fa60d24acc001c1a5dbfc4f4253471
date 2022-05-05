@@ -1,0 +1,7 @@
+package mdp.nonvp.shape;
+
+public class FileExport {
+	public String export(s shape) {
+		return "Exporting shape";
+	}
+}
